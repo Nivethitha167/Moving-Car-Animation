@@ -1,5 +1,5 @@
 # Moving-Car-Animation
-This is an animated moving car built using HTML, CSS and JAVASCRIPT.
++This is an animated moving car built using HTML, CSS and JAVASCRIPT.
 
 
 ![](movingcar.gif)
