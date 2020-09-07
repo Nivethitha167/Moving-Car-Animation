@@ -6,4 +6,4 @@ This is an animated moving car built using HTML, CSS and JAVASCRIPT.
 
 
 # Link to my project
-[Animated Moving Car Demo](https://nivethitha167.000webhostapp.com/moving%20car/index.html)
+[Animated Moving Car](https://nivethitha167.000webhostapp.com/moving%20car/index.html)
